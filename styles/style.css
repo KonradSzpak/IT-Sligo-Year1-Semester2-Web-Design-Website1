@@ -1,0 +1,336 @@
+
+#actice {
+    background-color: darkseagreen;
+}
+
+
+
+#just{
+    float: left;
+    
+    border: 1px solid grey; 
+    margin-right: 300px;
+    
+}
+
+
+p{
+    color: white;
+    padding: 5px;
+    float: none;
+}
+
+
+.col_detail {
+    color: white;
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 50px;
+    padding: 2px;
+    float: left;
+
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+    text-align: left;
+    width: 1500;
+    
+    
+}
+
+
+aside ul li {
+    list-style-type: none;
+}
+
+aside ol li {
+    list-style-type: none;
+}
+
+aside ul li a {
+    color: blue;
+    text-decoration: none;
+}
+
+html{
+    background-color: black;
+    margin: 5px;
+}
+
+
+aside{
+    float: right;
+    color: white;
+    border: 1px solid grey; 
+    background-color: black;
+    padding: 55px;
+    border-radius: 50px;
+    text-align: left;
+}
+
+section table{
+    width: 100%;
+    border-color: black;
+    border-width: 1px;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+
+    
+header{
+    background-image: url(../images/carrots.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color:navajowhite;
+    border: 1px solid blue;
+    border-radius: 30px;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+    
+}
+
+nav {
+
+    padding: 5px;
+    border: 2px solid green;
+    border-radius: 30px;
+    background-color: dimgray;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li{
+    list-style-type: none;
+    background-color:  #B2B2B2;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+
+    
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    background-color:  #8E8E8E;
+}
+
+footer{
+    clear: both;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+#bottom li{
+    background-color: #696969;
+}
+
+.showimages {
+    float: right;
+}
+
+#green {
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#video {
+    float: right;
+}
+
+
+
+#video1 {
+    float: left;
+}
+
+#videos222 {
+    
+}
+
+#writingvideos {
+    align-content: left;
+}
+
+.video1 {
+    align-content: left;
+}
+
+#aboutourfood {
+    text-align: left;
+    float: left;
+}
+
+#aboutourfood1 {
+    float: left;
+}
+
+#coldetail1 {
+    float: left;
+    width: 1600px;
+    text-align: left;
+}
+
+
+
+#managerhead {
+    text-align: left;
+}
+
+
+
+#imges {
+    float: left;
+}
+
+#textunderpics {
+    float: left;
+}
+
+
+
+
+
+.border {
+    padding: 5px;
+    border: 2px solid green;
+    border-radius: 30px;
+    float: left;
+    width: 1600px;
+}
+
+
+
+#images111 {
+    align-content: left;
+}
+
+.bigpicdesc {
+    float: left;
+    width: 500px;
+}
+
+
+
+
+.staff {
+    float: left;
+    
+}
+
+.staff1 {
+    float: left;
+}
+
+
+
+#content {
+}
+
+#aboutUs {
+    float: right;
+    padding-top: 90px;
+    padding-right: 80px;
+}
+
+.showimages1 {
+    float: left;
+    width: 100px;
+    padding: 5px;
+}
+
+.col_article {
+    color: white;
+    column-count: 3;
+    column-rule: 1px solid white;
+    column-gap: 70px;
+    padding: 2px;
+    float: left;
+
+}
+
+.backgroundImageB {
+    background-image: url(../images/bacon.jpg);
+}
+
+.backgroundImageC {
+    background-image: url(../images/carrots.jpg);
+}
+
+.backgroundImageE {
+    background-image: url(../images/eggs.jpg);
+}
+
+.blacktext {
+    color: black;
+}
+
+.mainsec {
+    text-align: center;
+}
+
+.gotocenter {
+    text-align: center;
+}
+
+.gotocenter1 {
+    text-align: center;
+}
+
+section {
+    
+}
+
+.alltocentre {
+    align-content: center;
+    float: none;
+}
+
+.centreimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
